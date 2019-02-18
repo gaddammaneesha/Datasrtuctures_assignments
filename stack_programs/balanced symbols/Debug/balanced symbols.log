@@ -1,0 +1,4 @@
+﻿  check_balancedexpression.cpp
+c:\users\cdac\desktop\gaddammaneesha\datasrtuctures_assignments\stack_programs\balanced symbols\check_balancedexpression.cpp(10): warning C4091: 'typedef ': ignored on left of 'stack_implementation' when no variable is declared
+  balanced symbols.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\balanced symbols.exe
+  balanced symbols.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\balanced symbols.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  queue.cpp
+c:\users\cdac\desktop\gaddammaneesha\datasrtuctures_assignments\stack_programs\queue_implementation\queue.cpp(8): warning C4091: 'typedef ': ignored on left of 'queue_implementation' when no variable is declared
+  queue_implementation.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\queue_implementation.exe
+  queue_implementation.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\queue_implementation.pdb (Full PDB)

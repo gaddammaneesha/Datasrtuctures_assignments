@@ -1,0 +1,4 @@
+﻿  stack.cpp
+c:\users\cdac\desktop\gaddammaneesha\datasrtuctures_assignments\stack_programs\stack_implementation\stack.cpp(8): warning C4091: 'typedef ': ignored on left of 'stack_implementation' when no variable is declared
+  stack_implementation.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\stack_implementation.exe
+  stack_implementation.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\stack_implementation.pdb (Full PDB)

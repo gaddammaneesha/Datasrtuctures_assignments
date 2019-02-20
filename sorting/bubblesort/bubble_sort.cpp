@@ -37,7 +37,7 @@ void sorting()
 				a[j+1] = temp;
 			}
 		}
-		cout << a[i];
+	
 		if (flag == 0)
 			break;
 	}

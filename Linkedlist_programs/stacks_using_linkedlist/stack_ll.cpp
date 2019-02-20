@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//stack using linkedlist
+//stack implemnted using linkedlist 
 struct node
 {
 	int data;
@@ -53,6 +53,7 @@ int stack::delete_beg()
 }
 void stack::display()
 {
+	cout << "stack elemets are:\n";
 	struct node *curr;
 	curr = start;
 	while (curr != NULL)

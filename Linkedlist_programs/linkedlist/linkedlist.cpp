@@ -29,7 +29,6 @@ public:
 			print(start);
 	}
 	void reverse();
-	void display();
 	~ list()
 	{
 		struct node*temp;

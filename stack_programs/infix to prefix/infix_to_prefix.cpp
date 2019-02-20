@@ -7,7 +7,7 @@ typedef struct stack_implementation
 	char  *s;
 	int size;
 };
-//infix to prefix conversio
+//infix to prefix conversion
 int k = 0;
 class conversion
 {

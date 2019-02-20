@@ -1,0 +1,4 @@
+﻿  infix_to_prefix.cpp
+c:\users\cdac\desktop\gaddammaneesha\datasrtuctures_assignments\stack_programs\infix to prefix\infix_to_prefix.cpp(9): warning C4091: 'typedef ': ignored on left of 'stack_implementation' when no variable is declared
+  infix to prefix.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\infix to prefix.exe
+  infix to prefix.vcxproj -> C:\Users\cdac\Desktop\gaddammaneesha\Datasrtuctures_assignments\stack_programs\Debug\infix to prefix.pdb (Full PDB)
